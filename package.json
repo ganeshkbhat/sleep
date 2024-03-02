@@ -1,13 +1,19 @@
 {
   "name": "timed-sleep",
   "version": "1.0.0",
-  "description": "",
+  "description": "sleep any execution for defined milliseconds using timed-sleep. global code execution block sleep timer like python",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    ""
+    "sleep",
+    "pause",
+    "wait",
+    "performance",
+    "atomics",
+    "sleep for defined seconds",
+    "global code execution block sleep timer like python"
   ],
   "author": "",
   "license": "ISC"

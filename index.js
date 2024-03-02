@@ -56,5 +56,5 @@ function timeout(ms) {
   return sleep(ms);
 }
 
-module.exports = { wait, sleep, sleepAsync, timeout };
-module.exports.default = { wait, sleep, sleepAsync, timeout };
+module.exports = { wait, sleep, timeout };
+module.exports.default = { wait, sleep, timeout };

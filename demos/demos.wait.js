@@ -1,8 +1,4 @@
 
-// //
-// // Example usage
-// //
-
 const { wait } = require("../index");
 
 // // Wait one second, then write "I waited long enough!" to the console.
